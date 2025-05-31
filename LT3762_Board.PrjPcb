@@ -321,6 +321,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMOMQAHW
 
+[Document17]
+DocumentPath=TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL-EP4.8.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for NewSpeedRadar_Board\Design Rule Check - NewSpeedRadar_Board.html
 DItemRevisionGUID=
