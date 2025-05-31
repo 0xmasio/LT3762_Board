@@ -135,7 +135,7 @@ DocumentUniqueId=FQVKENHA
 
 [Document6]
 DocumentPath=STM32H743IIT6.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -152,7 +152,7 @@ DocumentUniqueId=NGSLCOPO
 
 [Document7]
 DocumentPath=LT3762EUFD.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -377,6 +377,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=Project Outputs for PetroTankMonitor\Design Rule Check - PetroTankMonitor.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=LT3762_Board.html
 DItemRevisionGUID=
 
 [Configuration1]
